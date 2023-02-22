@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #fff;
+  color: #fff;
+  background-color: #222;
   text-align: center;
   line-height: 1.4em;
 }
@@ -23,7 +23,7 @@ h3 {
 }
 
 a {
-  color: #2574a9;
+  color: #5f5ff5;
 }
 
 form {
@@ -37,7 +37,10 @@ label {
 }
 
 input {
-  padding: 5px;
+  padding: 7px;
+  padding-inline: 15px;
+  border-radius: 10px
+  
 }
 
 input[type='text'] {
